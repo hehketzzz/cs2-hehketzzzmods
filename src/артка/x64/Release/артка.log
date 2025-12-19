@@ -1,0 +1,12 @@
+﻿  Aimbot.cpp
+  main.cpp
+C:\Users\user\source\repos\артка\артка\main.cpp(1,9): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+      C:\Users\user\source\repos\артка\артка\main.cpp(1,9):
+      "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  
+  Создание кода
+  18 of 2355 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    7 functions were new in current compilation
+    48 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  артка.vcxproj -> C:\Users\user\source\repos\артка\x64\Release\артка.exe
